@@ -1,7 +1,7 @@
 # Bao's Portfolio
-> Short blurb about what your product does.
+> Hightlight top fun of my projects.
 
-One to two paragraph statement about your product and what it does.
+https://lequangbao1.github.io/portfolio/
 
 ![](header.png)
 
