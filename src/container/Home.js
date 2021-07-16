@@ -1,6 +1,6 @@
 import React from "react";
 import { Icons, Profile } from "../components";
-import ProfilePhoto from "../img/perfil.png";
+import ProfilePhoto from "../img/profile.png";
 import CV from "../file/CV_LEQUANGBAO_16JUL21.pdf";
 
 const Home = () => {
