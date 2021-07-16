@@ -21,6 +21,7 @@ export const AvatarWrapper = styled.div`
   margin-bottom: 16px;
 `;
 export const Avatar = styled.img`
+  filter: brightness(130%);
   transform: scale(2.4);
   max-width: 155px;
   height: auto;
